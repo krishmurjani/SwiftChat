@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>635681266983-8a0rrjj4f174g4fhps01gak8ovmdi3v3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.635681266983-8a0rrjj4f174g4fhps01gak8ovmdi3v3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAASpWbmTz5IhzVPVQJ5KH1qa46o01MnFM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>635681266983</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.krish.SwiftChat</string>
+	<key>PROJECT_ID</key>
+	<string>swift-chat-e2017</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift-chat-e2017.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:635681266983:ios:4aa892795a94a288ef9d02</string>
+	<key>DATABASE_URL</key>
+	<string>https://swift-chat-e2017.firebaseio.com</string>
+</dict>
+</plist>
